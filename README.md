@@ -9,7 +9,7 @@ I am a frontend developer who loves react!
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
 * ✉️  You can contact me at [gauravkaushik7658@gmail.com](mailto:gauravkaushik7658@gmail.com)
-* 🚀  I'm currently working on [Food Delivery Web Application](http://food delivery.com)
+* 🚀  I'm currently working on [Food Delivery Web Application](http://fooddelivery.com)
 * 🧠  I'm learning Full stack Web developer
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Batman, Tell Everyone
